@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FEET")(type "KiCad")(uri "/home/dread/kicad/Seeed Studio XIAO Series Library")(options "")(descr ""))
+)
