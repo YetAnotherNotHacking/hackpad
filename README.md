@@ -1,5 +1,8 @@
 # HackPad
 A simple pad of 8 switches for macros, using an RP2040 and Cherry MX switches.
+Fun fact: designed everything in the lobby of GitHub HQ for HackClub Highway.
+The firmware currently has the keys acting as if they were a numberpad 1-8.
+The firmware should be modified for something more useful for whatever situation you want it to be used for.
 
 ## Overall HackPad
 PCB is inside, but it's the same color
